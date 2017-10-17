@@ -1,0 +1,6 @@
+[submodule "libs/EventLoopScheduler"]
+	path = libs/EventLoopScheduler
+	url = https://github.com/ewized/EventLoopScheduler.git
+[submodule "libs/LeapLibs"]
+	path = libs/LeapLibs
+	url = https://github.com/DroneClaw/LeapLibs.git
